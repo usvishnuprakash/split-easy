@@ -1,0 +1,296 @@
+SPLITWISE RECONCILIATION TRACKER
+  STATUS GUIDE
+    done - Fully reconciled and split
+    in-progress - Currently being processed
+    stage - Under review/investigation
+    pending - Not started
+    todo - Action required
+  PEOPLE
+    Mubin, Divya, Indhu, Pranam, Rachitha, Arun
+  GLOBAL NOTES
+    CRED Date Range Issue: When filtering by date, Cred often excludes the final day. Manually verify 31st transactions.
+    In Indus and Bank card, I was using the app. The app is transaction-wise, I am seeing that is not proper. Last time when I put August data, I understood that okay, this mismatch is happening. We need to put from direct downloaded statement. So, we have to add that whenever we have time. 
+
+FEBRUARY 2025 - stage
+  upis - in-progress
+    cred - done
+    google pay - pending
+    amazon pay - stage
+      25/2/25 PayU payment ₹1500+ unknown - todo
+    paytm - done
+  credit cards - pending
+    icici card - pending
+    yes bank - pending
+    axis bank - pending
+    indusind bank - pending
+    one card - pending
+    sbi bank card - not applicable
+    hdfc bank card - pending
+  notes
+    mubin not here jan 14-24 and mar 29 to apr 7
+    reconcile PayU payment before closing month
+
+MARCH 2025 - stage
+  upis - done
+    cred - done
+      some missing noted in sheet
+    google pay - done
+      pranam lending amount to track
+    amazon pay - done
+    paytm - done
+  credit cards - stage
+    icici card (feb-mar) - done
+      23/02/25 ZUDIO Bangalore ₹2,596
+    yes bank - done
+      only UPIs
+    axis bank - done
+      no doubts
+    indusind bank - done
+      only UPI no doubts
+    one card - stage
+      28/02/25 Zomato Kannur Food Point ₹550 - check mubin/divya - todo
+    sbi bank card - not applicable
+    hdfc bank card - done
+      no doubts
+  notes
+    mubin not here jan 14-24 and mar 29 to apr 7
+    cross-check pranam lending amounts
+
+APRIL 2025 - stage
+  upis - stage
+    cred - stage
+      pranam ₹10K - check whatsapp - todo
+    google pay - done
+    amazon pay - stage
+    paytm - done
+  credit cards - stage
+    icici card (mar-apr) - stage
+      30/3/25 Grannies - check mubin/indhu - todo
+    yes bank (mar-apr) - stage
+      27/03/25 ATO National Service ₹1,283 - identify what it is - todo
+    axis bank (mar-apr) - stage
+      pranam vercel ₹1,794 (incl GST) - todo
+    indusind bank (mar-apr) - stage
+      31/3/25 ZUDIO ₹1,398 - check indhu - todo
+    one card (mar-apr) - done
+    sbi bank card - not applicable
+    hdfc bank card (mar-apr) - done
+  notes
+    amit ₹20K lent - verify if fully paid
+    pranam v0 payments - check full history
+    handlers lending to rumize - check mubin
+    handlers lending to raj ₹20K on may 22
+    mubin out apr 19 to may 8
+
+MAY 2025 - stage
+  upis - stage
+    cred - stage
+      6/5/25 Zepto ₹845 - check if mubin in bangalore - todo
+    google pay - stage
+      1/5/25 Siva Prakash ₹1,000 - check with siva prakash klm - todo
+    amazon pay - done
+    paytm - done
+  credit cards - stage
+    icici card - done
+      no impact transactions
+    yes bank - done
+      only UPI
+    axis bank - stage
+      24/4/25 pranam v0 ₹1,779 (incl GST) - todo
+    indusind bank - stage
+      14/5/25 Instamart ₹372 - unauthorized, identify user - todo
+    one card - done
+    sbi bank card - not applicable
+    hdfc bank card - done
+  notes
+    mubin out jun 4 evening to jun 11 morning
+    rachitha added to team
+    pranam lending to track
+    indhu left may 20
+
+JUNE 2025 - stage
+  upis - stage
+    cred - stage
+      3/6/25 Ganapathy Sign ₹1,750 - RESOLVED (gas)
+      17/6/25 Cricket Codewave ₹407 - check nandeesh - todo
+    google pay - stage
+      19/6/25 pranam lending ₹16,000 - track - todo
+    amazon pay - done
+    paytm - done
+      no transactions
+  credit cards - stage
+    icici card - done
+    yes bank - done
+    axis bank - stage
+      24/5/25 pranam v0 ₹1,779 (incl GST) - todo
+      codewave ₹2,751 - verify completion - todo
+    indusind bank - done
+    one card - done
+    sbi bank card - not applicable
+    hdfc bank card - stage
+      late fee - request statement via email - todo
+  notes
+    indhu left jul 3
+    arun cycle starts jul 15+
+
+JULY 2025 - in-progress
+  upis - done
+    cred - done
+    google pay - done
+      arun cycle present
+    amazon pay - done
+    paytm - done
+      no transactions
+  credit cards - in-progress
+    icici card - done
+    yes bank - done
+    axis bank - done
+      only incoming payments, no debit
+    indusind bank - done
+      no payment needed, verified
+    one card - stage
+      late payment fee ~₹2,000 end of july - todo
+    sbi bank card - done
+    hdfc bank card - done
+  notes
+    indhu left jul 3
+    arun cycle commenced jul 15+
+
+AUGUST 2025 - in-progress
+  upis - in-progress
+    cred - done
+    google pay - stage
+      I sent a money to mubin on 29/8/25 for javagar 5000 swap - has to work in handlers lenting
+    amazon pay - done
+    paytm - done
+  credit cards - inprogress
+    icici card - done
+    yes bank - done
+    axis bank - not applicable
+      no transactions
+    indusind bank - done
+      
+    one card - done
+    sbi bank card - not applicable
+    hdfc bank card - done
+
+  notes
+    From August 3 to August 27, Mubin is not here. In Bangalore. 
+
+SEPTEMBER 2025 - stage
+  upis - stage
+    cred - stage
+      Me Simeon Agash 500 rupiah to split such away, so we have to speak with for this marriage cake. 7 September. 2025 
+    google pay - done
+    amazon pay - done
+    paytm - done
+  credit cards - stage
+    icici card - done
+    yes bank - stage
+        31-8-2025 Swiggy 236 rupees. Swiggy will send the details. I have to check if it is instrument or not. 
+    axis bank - done
+    indusind bank - done
+    one card - done
+    sbi bank card - not applicable
+    hdfc bank card - done
+  notes
+
+OCTOBER 2025 - inprogress
+  upis - done
+    cred - done
+    google pay - done
+     October 1, 2025 goa trip 4550 Already I think I have added in Gpay, you have to check. => done
+      
+
+    amazon pay - done
+    paytm - done
+  credit cards - inprogress
+    icici card - done
+    yes bank - done
+    axis bank - done
+    indusind bank - done
+    one card - done
+    sbi bank card - done
+    hdfc bank card - done
+  notes
+
+NOVEMBER 2025 - pending
+  upis - pending
+    cred - pending
+    google pay - pending
+    amazon pay - pending
+    paytm - pending
+  credit cards - pending
+    icici card - pending
+    yes bank - pending
+    axis bank - pending
+    indusind bank - pending
+    one card - pending
+    sbi bank card - not applicable
+    hdfc bank card - pending
+  notes
+
+DECEMBER 2025 - pending
+  upis - pending
+    cred - pending
+    google pay - pending
+    amazon pay - pending
+    paytm - pending
+  credit cards - pending
+    icici card - pending
+    yes bank - pending
+    axis bank - pending
+    indusind bank - pending
+    one card - pending
+    sbi bank card - not applicable
+    hdfc bank card - pending
+  notes
+
+OUTSTANDING ITEMS SUMMARY
+  LENDING TRACKER
+    amit - ₹20,000 lent - verify repayment
+    pranam - multiple amounts
+      ₹10,000 (april)
+      ₹16,000 (june 19)
+    rumize - amount TBD - check mubin
+    raj - ₹20,000 (may 22) - track repayment
+  RECURRING SUBSCRIPTIONS
+    pranam v0/vercel
+      march ₹1,794 (incl GST)
+      april ₹1,779 (incl GST)
+      may ₹1,779 (incl GST)
+  HIGH PRIORITY TODOS
+    PayU feb ₹1,500+ - unknown
+    Zomato mar ₹550 - mubin/divya
+    ATO service apr ₹1,283 - identify
+    Instamart may ₹372 - unauthorized
+    Codewave jun ₹2,751 - verify
+    HDFC late fee jun - request statement
+    One Card late fee jul ~₹2,000
+  PEOPLE AVAILABILITY
+    jan 14-24 - mubin absent
+    mar 29 to apr 7 - mubin absent
+    apr 19 to may 8 - mubin absent
+    may 20 - indhu left
+    jun 4-11 - mubin absent
+    jul 3 - indhu returned
+    jul 15+ - arun cycle started
+
+
+
+for gpay in October
+goa trip expenses 
+
+From crud
+1st October, Rs. 250 in Goa, pollution. 
+1st October Petrol in Goa - ₹4190 
+1st October Go Koba Miscellaneous 40 Rupees
+2nd October in Goa, 300 miscellaneous. 
+4th October in Goa, Rs. 2,265 for petrol. 
+In Goa, 4th October, in toll, 55 rupees. 
+For Goa - 200 rupees - 4th October - In Indus and Bank Fastag. 
+4th October in Goa. Indus and Bank Fast Tag - 150 Rupees. 
+After Goa cleaning charges: ₹1,600 5th October. 
+
+for vasim for gpay
+Rs.170, me, Vasim, 12th October. 

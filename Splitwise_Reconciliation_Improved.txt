@@ -1,0 +1,527 @@
+================================================================================
+                      SPLITWISE RECONCILIATION TRACKER
+================================================================================
+
+LEGEND:
+   ✓ done          - Fully reconciled and split
+   ⟳ in-progress   - Currently being processed
+   ◐ stage         - Under review/investigation
+   ○ pending       - Not started
+   ! todo          - Action required
+
+PEOPLE TRACKING:
+   • Mubin         - Primary housemate
+   • Divya         - Housemate
+   • Indhu         - Left May 20, returned July 3
+   • Pranam        - Handles tech subscriptions
+   • Rachitha      - Added June (new)
+   • Arun          - Cycle started July 15+
+
+================================================================================
+                              FEBRUARY 2025
+================================================================================
+
+STATUS: ◐ stage
+
+UPI PAYMENTS: ⟳ in-progress
+   CRED
+      ✓ done
+   
+   Google Pay
+      ○ pending
+   
+   Amazon Pay
+      ◐ stage
+      ! 25/02/25 | PayU Payment | ₹1,500+ | Unknown (pay balance) | TODO
+   
+   Paytm
+      ✓ done
+
+CREDIT CARDS: ○ pending
+   ICICI Card       - ○ pending
+   Yes Bank         - ○ pending
+   Axis Bank        - ○ pending
+   IndusInd Bank    - ○ pending
+   One Card         - ○ pending
+   SBI Card         - N/A
+   HDFC Card        - ○ pending
+
+NOTES:
+   • Mubin absent: Jan 14-24 & March 29 - April 7
+   • Reconcile PayU payment before closing month
+
+================================================================================
+                              MARCH 2025
+================================================================================
+
+STATUS: ◐ stage
+
+UPI PAYMENTS: ✓ done
+   CRED
+      ✓ done
+      ⚠ Some transactions missing (noted in sheet)
+   
+   Google Pay
+      ✓ done
+      ⚠ Pranam lending amount - track separately
+   
+   Amazon Pay
+      ✓ done
+   
+   Paytm
+      ✓ done
+
+CREDIT CARDS: ◐ stage
+   ICICI Card (Feb-Mar cycle)
+      ✓ done
+      📝 23/02/25 | ZUDIO (Trent) Bangalore | ₹2,596 | Transaction ID: 10799148877
+   
+   Yes Bank
+      ✓ done
+      📝 Only UPI transactions, no other charges
+   
+   Axis Bank
+      ✓ done
+      📝 No doubts
+   
+   IndusInd Bank
+      ✓ done
+      📝 Only UPI, no doubts
+   
+   One Card
+      ◐ stage
+      ! 28/02/25 | Zomato - Kannur Food Point | ₹550 | Check with Mubin/Divya
+   
+   SBI Card
+      N/A
+   
+   HDFC Card
+      ✓ done
+      📝 No doubts
+
+NOTES:
+   • Mubin absent: Jan 14-24 & March 29 - April 7
+   • Cross-check Pranam lending amounts
+
+================================================================================
+                              APRIL 2025
+================================================================================
+
+STATUS: ◐ stage
+
+UPI PAYMENTS: ◐ stage
+   CRED
+      ◐ stage
+      ! Pranam lending | ₹10,000 | Send details on WhatsApp
+   
+   Google Pay
+      ✓ done
+   
+   Amazon Pay
+      ◐ stage
+   
+   Paytm
+      ✓ done
+
+CREDIT CARDS: ◐ stage
+   ICICI Card (Mar-Apr cycle)
+      ◐ stage
+      ! 30/03/25 | Grannies | Amount TBD | Check with Mubin/Indhu
+   
+   Yes Bank (Mar-Apr cycle)
+      ◐ stage
+      ! 27/03/25 | ATO National Service Station | ₹1,283 | Identify service
+   
+   Axis Bank (Mar-Apr cycle)
+      ◐ stage
+      ! Pranam Vercel Subscription | ₹1,794 (incl. GST) | Verify & split
+   
+   IndusInd Bank (Mar-Apr cycle)
+      ◐ stage
+      ! 31/03/25 | ZUDIO | ₹1,398 | Check with Indhu
+   
+   One Card (Mar-Apr cycle)
+      ✓ done
+   
+   SBI Card
+      N/A
+   
+   HDFC Card (Mar-Apr cycle)
+      ✓ done
+
+PENDING ACTIONS:
+   1. ! Amit payments - ₹20K lent, verify if fully paid
+   2. ! Pranam V0 payments - check complete history
+   3. ! Handlers → Rumize lending - confirm with Mubin, track repayment
+   4. ! Handlers → Raj lending - ₹20K on May 22
+   5. ⚠ Mubin out of station: April 19 - May 8
+
+================================================================================
+                              MAY 2025
+================================================================================
+
+STATUS: ◐ stage
+
+UPI PAYMENTS: ◐ stage
+   CRED
+      ◐ stage
+      ! 06/05/25 | Zepto | ₹845 | Verify Mubin in Bangalore
+   
+   Google Pay
+      ◐ stage
+      ! 01/05/25 | Siva Prakash | ₹1,000 | Check with Siva Prakash KLM
+   
+   Amazon Pay
+      ✓ done
+   
+   Paytm
+      ✓ done
+
+CREDIT CARDS: ◐ stage
+   ICICI Card
+      ✓ done
+      📝 No impact transactions
+   
+   Yes Bank
+      ✓ done
+      📝 Only UPI payments
+   
+   Axis Bank
+      ◐ stage
+      ! 24/04/25 | Pranam V0 Subscription | ₹1,779 (incl. GST) | Verify
+   
+   IndusInd Bank
+      ◐ stage
+      ! 14/05/25 | Instamart | ₹372 | Unauthorized - identify user
+   
+   One Card
+      ✓ done
+   
+   SBI Card
+      N/A
+   
+   HDFC Card
+      ✓ done
+
+NOTES:
+   • Mubin out of station: April 19 - May 8
+   • Mubin out of station: June 4 (evening) - June 11 (morning)
+   • Rachitha added to team
+   • Pranam lending - ongoing tracking required
+   • Indhu left May 20, return date unknown
+
+================================================================================
+                              JUNE 2025
+================================================================================
+
+STATUS: ◐ stage
+
+UPI PAYMENTS: ◐ stage
+   CRED
+      ◐ stage
+      ✓ 03/06/25 | Ganapathy Sign (Gas) | ₹1,750 | RESOLVED
+      ! 17/06/25 | Cricket Amount - Codewave | ₹407 | Check Nandeesh
+   
+   Google Pay
+      ◐ stage
+      ! 19/06/25 | Pranam Lending | ₹16,000 | Track repayment
+   
+   Amazon Pay
+      ✓ done
+   
+   Paytm
+      ✓ done
+      📝 No transactions
+
+CREDIT CARDS: ◐ stage
+   ICICI Card
+      ✓ done
+   
+   Yes Bank
+      ✓ done
+   
+   Axis Bank
+      ◐ stage
+      ! 24/05/25 | Pranam V0 | ₹1,779 (incl. GST) | Verify
+      ! Codewave Payment | ₹2,751 | Verify completion, reconcile from start
+   
+   IndusInd Bank
+      ✓ done
+   
+   One Card
+      ✓ done
+   
+   SBI Card
+      N/A
+   
+   HDFC Card
+      ◐ stage
+      ! Late fee charged - request statement via email for verification
+
+NOTES:
+   • Mubin out of station: June 4 (evening) - June 11 (morning)
+   • Indhu left July 3
+   • Arun cycle starts July 15+
+
+================================================================================
+                              JULY 2025
+================================================================================
+
+STATUS: ⟳ in-progress
+
+UPI PAYMENTS: ⟳ in-progress
+   CRED
+      ✓ done
+   
+   Google Pay
+      ✓ done
+      📝 Arun cycle present
+   
+   Amazon Pay
+      ✓ done
+   
+   Paytm
+      ✓ done
+      📝 No transactions
+
+CREDIT CARDS: ⟳ in-progress
+   ICICI Card       - ✓ done
+   Yes Bank         - ✓ done
+   Axis Bank        - done
+     done. Actually, only incoming payments. No debit is there.
+   IndusInd Bank
+      done
+       actually, no payment needed. To verify it, everything is done 
+   One Card         - stage
+      !  late payment fee was there. Almost 2000 rupees at the end of July. Can do something about it later 
+   SBI Card         - N/A
+   HDFC Card        - done
+
+NOTES:
+   • Indhu left July 3
+   • Arun cycle commenced July 15+
+   • Complete credit card reconciliation
+
+================================================================================
+                              AUGUST 2025
+================================================================================
+
+STATUS: ○ pending
+
+UPI PAYMENTS: ○ pending
+   CRED
+      ○ pending
+   
+   Google Pay
+      ○ pending
+   
+   Amazon Pay
+      ○ pending
+   
+   Paytm
+      ○ pending
+
+CREDIT CARDS: ○ pending
+   ICICI Card       - ○ pending
+   Yes Bank         - ○ pending
+   Axis Bank        - ○ pending
+   IndusInd Bank    - ○ pending
+   One Card         - ○ pending
+   SBI Card         - N/A
+   HDFC Card        - ○ pending
+
+NOTES:
+   • 
+
+================================================================================
+                            SEPTEMBER 2025
+================================================================================
+
+STATUS: ○ pending
+
+UPI PAYMENTS: ○ pending
+   CRED
+      ○ pending
+   
+   Google Pay
+      ○ pending
+   
+   Amazon Pay
+      ○ pending
+   
+   Paytm
+      ○ pending
+
+CREDIT CARDS: ○ pending
+   ICICI Card       - ○ pending
+   Yes Bank         - ○ pending
+   Axis Bank        - ○ pending
+   IndusInd Bank    - ○ pending
+   One Card         - ○ pending
+   SBI Card         - N/A
+   HDFC Card        - ○ pending
+
+NOTES:
+   • 
+
+================================================================================
+                             OCTOBER 2025
+================================================================================
+
+STATUS: ○ pending
+
+UPI PAYMENTS: ○ pending
+   CRED
+      ○ pending
+   
+   Google Pay
+      ○ pending
+   
+   Amazon Pay
+      ○ pending
+   
+   Paytm
+      ○ pending
+
+CREDIT CARDS: ○ pending
+   ICICI Card       - ○ pending
+   Yes Bank         - ○ pending
+   Axis Bank        - ○ pending
+   IndusInd Bank    - ○ pending
+   One Card         - ○ pending
+   SBI Card         - N/A
+   HDFC Card        - ○ pending
+
+NOTES:
+   • 
+
+================================================================================
+                             NOVEMBER 2025
+================================================================================
+
+STATUS: ○ pending
+
+UPI PAYMENTS: ○ pending
+   CRED
+      ○ pending
+   
+   Google Pay
+      ○ pending
+   
+   Amazon Pay
+      ○ pending
+   
+   Paytm
+      ○ pending
+
+CREDIT CARDS: ○ pending
+   ICICI Card       - ○ pending
+   Yes Bank         - ○ pending
+   Axis Bank        - ○ pending
+   IndusInd Bank    - ○ pending
+   One Card         - ○ pending
+   SBI Card         - N/A
+   HDFC Card        - ○ pending
+
+NOTES:
+   • 
+
+================================================================================
+                             DECEMBER 2025
+================================================================================
+
+STATUS: ○ pending
+
+UPI PAYMENTS: ○ pending
+   CRED
+      ○ pending
+   
+   Google Pay
+      ○ pending
+   
+   Amazon Pay
+      ○ pending
+   
+   Paytm
+      ○ pending
+
+CREDIT CARDS: ○ pending
+   ICICI Card       - ○ pending
+   Yes Bank         - ○ pending
+   Axis Bank        - ○ pending
+   IndusInd Bank    - ○ pending
+   One Card         - ○ pending
+   SBI Card         - N/A
+   HDFC Card        - ○ pending
+
+NOTES:
+   •
+
+================================================================================
+                         OUTSTANDING ITEMS SUMMARY
+================================================================================
+
+LENDING TRACKER:
+   ├─ Amit           - ₹20,000 lent → verify full repayment
+   ├─ Pranam         - Multiple amounts → consolidate & track
+   │  ├─ ₹10,000 (April)
+   │  └─ ₹16,000 (June 19)
+   ├─ Rumize         - Amount TBD → check with Mubin
+   └─ Raj            - ₹20,000 (May 22) → track repayment
+
+RECURRING SUBSCRIPTIONS:
+   └─ Pranam V0/Vercel
+      ├─ March: ₹1,794 (incl. GST)
+      ├─ April: ₹1,779 (incl. GST)
+      └─ May: ₹1,779 (incl. GST)
+
+HIGH PRIORITY TODOS:
+   1. ! PayU payment Feb - ₹1,500+ unknown
+   2. ! Zomato March - ₹550 Mubin/Divya
+   3. ! ATO Service April - ₹1,283 identify
+   4. ! Instamart May - ₹372 unauthorized
+   5. ! Codewave June - ₹2,751 verify completion
+   6. ! HDFC late fee June - request statement
+   7. ! Complete July credit cards
+
+PEOPLE AVAILABILITY:
+   Jan 14-24          - Mubin absent
+   Mar 29 - Apr 7     - Mubin absent
+   Apr 19 - May 8     - Mubin absent
+   May 20             - Indhu left
+   Jun 4-11           - Mubin absent
+   Jul 3              - Indhu returned
+   Jul 15+            - Arun cycle started
+
+================================================================================
+                            RECONCILIATION WORKFLOW
+================================================================================
+
+MONTHLY PROCESS:
+   1. [ ] Download all UPI statements (CRED, GPay, Amazon Pay, Paytm)
+   2. [ ] Download all credit card statements (6 cards)
+   3. [ ] Review each transaction chronologically
+   4. [ ] Identify shared expenses (food, groceries, utilities, subscriptions)
+   5. [ ] Check people availability (who was present)
+   6. [ ] Calculate split amounts
+   7. [ ] Update Splitwise app
+   8. [ ] Mark transactions as done
+   9. [ ] Track todos and follow up
+   10. [ ] Get confirmations from housemates
+   11. [ ] Update lending tracker
+   12. [ ] Archive month when 100% complete
+
+TRANSACTION FORMAT:
+   Date | Description | Amount | Action | Person
+
+TIPS:
+   • Always note out-of-station dates immediately
+   • Flag unauthorized/unknown transactions immediately
+   • Track lending separately from regular splits
+   • Weekly review prevents backlog
+   • Cross-verify large amounts on WhatsApp
+   • Keep receipts for disputed items
+
+================================================================================
+                                END OF TRACKER
+================================================================================

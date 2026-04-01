@@ -1,0 +1,375 @@
+SPLITWISE TRACKER
+  STATUS: done | in-progress | stage | pending | todo | N/A
+  PEOPLE: Mubin, Divya, Indhu, Pranam, Rachitha, Arun
+  NOTES
+    CRED date range bug: excludes final day, manually verify 31st
+    IndusInd app mismatch: use downloaded statements instead
+
+QUICK ADD
+  (paste new entries here, move to correct month later)
+
+
+FEB 2025 - stage
+  upis - in-progress
+    cred - done
+    google pay - pending
+    amazon pay - stage
+      25/02 PayU payment ₹1,500+ unknown - todo
+    paytm - done
+  cards - pending
+    icici - pending
+    yes bank - pending
+    axis - pending
+    indusind - pending
+    one card - pending
+    sbi - N/A
+    hdfc - pending
+  notes
+    mubin not here jan 14-24 and mar 29 to apr 7
+    reconcile PayU payment before closing month
+
+MAR 2025 - stage
+  upis - done
+    cred - done
+      some missing noted in sheet
+    google pay - done
+      pranam lending amount to track
+    amazon pay - done
+    paytm - done
+  cards - stage
+    icici (feb-mar) - done
+      23/02 ZUDIO Bangalore ₹2,596
+    yes bank - done
+      only UPIs
+    axis - done
+      no doubts
+    indusind - done
+      only UPI, no doubts
+    one card - stage
+      28/02 Zomato Kannur Food Point ₹550 - check mubin/divya - todo
+    sbi - N/A
+    hdfc - done
+      no doubts
+  notes
+    mubin not here jan 14-24 and mar 29 to apr 7
+    cross-check pranam lending amounts
+
+APR 2025 - stage
+  upis - stage
+    cred - stage
+      pranam ₹10K - check whatsapp - todo
+    google pay - done
+    amazon pay - stage
+    paytm - done
+  cards - stage
+    icici (mar-apr) - stage
+      30/03 Grannies - check mubin/indhu - todo
+    yes bank (mar-apr) - stage
+      27/03 ATO National Service ₹1,283 - identify what it is - todo
+    axis (mar-apr) - stage
+      pranam vercel ₹1,794 (incl GST) - todo
+    indusind (mar-apr) - stage
+      31/03 ZUDIO ₹1,398 - check indhu - todo
+    one card (mar-apr) - done
+    sbi - N/A
+    hdfc (mar-apr) - done
+  notes
+    amit ₹20K lent - verify if fully paid
+    pranam v0 payments - check full history
+    handlers lending to rumize - check mubin
+    handlers lending to raj ₹20K on may 22
+    mubin out apr 19 to may 8
+
+MAY 2025 - stage
+  upis - stage
+    cred - stage
+      06/05 Zepto ₹845 - check if mubin in bangalore - todo
+    google pay - stage
+      01/05 Siva Prakash ₹1,000 - check with siva prakash klm - todo
+    amazon pay - done
+    paytm - done
+  cards - stage
+    icici - done
+      no impact transactions
+    yes bank - done
+      only UPI
+    axis - stage
+      24/04 pranam v0 ₹1,779 (incl GST) - todo
+    indusind - stage
+      14/05 Instamart ₹372 - unauthorized, identify user - todo
+    one card - done
+    sbi - N/A
+    hdfc - done
+  notes
+    mubin out jun 4 evening to jun 11 morning
+    rachitha added to team
+    pranam lending to track
+    indhu left may 20
+
+JUN 2025 - stage
+  upis - stage
+    cred - stage
+      03/06 Ganapathy Sign ₹1,750 - RESOLVED (gas)
+      17/06 Cricket Codewave ₹407 - check nandeesh - todo
+    google pay - stage
+      19/06 pranam lending ₹16,000 - track - todo
+    amazon pay - done
+    paytm - done
+      no transactions
+  cards - stage
+    icici - done
+    yes bank - done
+    axis - stage
+      24/05 pranam v0 ₹1,779 (incl GST) - todo
+      codewave ₹2,751 - verify completion - todo
+    indusind - done
+    one card - done
+    sbi - N/A
+    hdfc - stage
+      late fee - request statement via email - todo
+  notes
+    indhu left jul 3
+    arun cycle starts jul 15+
+
+JUL 2025 - in-progress
+  upis - done
+    cred - done
+    google pay - done
+      arun cycle present
+    amazon pay - done
+    paytm - done
+      no transactions
+  cards - in-progress
+    icici - done
+    yes bank - done
+    axis - done
+      only incoming payments, no debit
+    indusind - done
+      no payment needed, verified
+    one card - stage
+      late payment fee ~₹2,000 end of july - todo
+    sbi - done
+    hdfc - done
+  notes
+    indhu left jul 3
+    arun cycle commenced jul 15+
+
+AUG 2025 - in-progress
+  upis - in-progress
+    cred - done
+    google pay - stage
+      29/08 sent ₹5,000 to mubin for javagar swap - work in handlers lending
+    amazon pay - done
+    paytm - done
+  cards - done
+    icici - done
+    yes bank - done
+    axis - N/A
+      no transactions
+    indusind - done
+    one card - done
+    sbi - N/A
+    hdfc - done
+  notes
+    mubin not in Bangalore aug 3 to aug 27
+
+SEP 2025 - stage
+  upis - stage
+    cred - stage
+      07/09 Simeon Agash ₹500 - marriage cake, split, speak with person - todo
+    google pay - done
+    amazon pay - done
+    paytm - done
+  cards - stage
+    icici - done
+    yes bank - stage
+      31/08 Swiggy ₹236 - check if Instamart or not - todo
+    axis - done
+    indusind - done
+    one card - done
+    sbi - N/A
+    hdfc - done
+  notes
+
+OCT 2025 - in-progress
+  upis - done
+    cred - done
+      01/10 Goa pollution ₹250
+      01/10 Goa petrol ₹4,190
+      01/10 Goa misc ₹40
+      02/10 Goa misc ₹300
+      04/10 Goa petrol ₹2,265
+      04/10 Goa toll ₹55
+      05/10 after Goa cleaning ₹1,600
+    google pay - done
+      01/10 Goa trip ₹4,550 (already added in GPay) - done
+      12/10 Vasim ₹170
+    amazon pay - done
+    paytm - done
+  cards - in-progress
+    icici - done
+    yes bank - done
+    axis - done
+    indusind - done
+      04/10 Goa IndusInd FASTag ₹200
+      04/10 Goa IndusInd FASTag ₹150
+    one card - done
+    sbi - done
+    hdfc - done
+  notes
+
+NOV 2025 - in-progress
+  upis - stage
+    cred - done
+    google pay - stage
+      01/11 Saitoon restaurant ₹1,981 (me, Mubin, Kamal, Mayura) - done
+      03/11 pranam lending ₹12,000 - verify and add - todo
+      29/11 pranam ₹1,00,000 - check separately - todo
+    amazon pay - done
+    paytm - done
+  cards - done
+    icici - done
+    yes bank - done
+      18/10 Uru Brew already added - do not duplicate
+    axis - done
+    indusind - done
+      no payment, only UPIs
+    one card - done
+    sbi - done
+    hdfc - done
+      no payments, clean
+  notes
+    mubin not here nov 7 to nov 13
+
+DEC 2025 - in-progress
+  upis - done
+    cred - done
+      05/12 sent to Mubin - verified, he sent back via bank (Yes Bank)
+    google pay - done
+      16/12 Bobs Bar Core Mangala - already added
+      17/12 What's In A Name ₹17,373 - checked people and added to Splitwise - done
+      Watson and Neem Rajya ₹5,000 (incl Mayura) - accommodated above - done
+    amazon pay - done
+    paytm - done
+  cards - done
+    icici - done
+      no doubts
+    yes bank - done
+      no doubts
+    axis - done
+    indusind - done
+    one card - done
+    sbi - done
+    hdfc - done
+      no doubts
+  notes
+    yes bank IAUP ₹400+ paid twice on 05/12, one amount to revert - verified done
+    ANKUSH trip - added to GPay group (includes GPay and Cred)
+      06/12 water ₹80
+      06/12 room ₹4,860
+      06/12 petrol ₹5,045
+      06/12 FASTag ₹500
+      06/12 toddy ₹1,563
+      06/12 misc ₹80 + ₹245
+      06/12 missile patrol ₹1,000 - added to GPay
+      07/12 Ankush Fuels and Servi, Barkur fuel ₹4,477.62 - done
+
+JAN 2026 - pending
+  upis - pending
+    cred - pending
+    google pay - pending
+    amazon pay - pending
+    paytm - pending
+  cards - pending
+    icici - pending
+    yes bank - pending
+    axis - pending
+    indusind - pending
+    one card - pending
+    sbi - N/A
+    hdfc - pending
+  notes
+
+FEB 2026 - pending
+  upis - pending
+    cred - pending
+    google pay - pending
+    amazon pay - pending
+    paytm - pending
+  cards - pending
+    icici - pending
+    yes bank - pending
+    axis - pending
+    indusind - pending
+    one card - pending
+    sbi - N/A
+    hdfc - pending
+  notes
+
+MAR 2026 - pending
+  upis - pending
+    cred - pending
+    google pay - pending
+    amazon pay - pending
+    paytm - pending
+  cards - pending
+    icici - pending
+    yes bank - pending
+    axis - pending
+    indusind - pending
+    one card - pending
+    sbi - N/A
+    hdfc - pending
+  notes
+
+
+OUTSTANDING ITEMS
+  HIGH PRIORITY TODOS
+    feb - amazon pay - PayU payment ₹1,500+ unknown
+    mar - one card - Zomato Kannur ₹550 check mubin/divya
+    apr - cred - pranam ₹10K check whatsapp
+    apr - icici - Grannies check mubin/indhu
+    apr - yes bank - ATO National Service ₹1,283 identify
+    apr - axis - pranam vercel ₹1,794
+    apr - indusind - ZUDIO ₹1,398 check indhu
+    may - cred - Zepto ₹845 check mubin bangalore
+    may - google pay - Siva Prakash ₹1,000 check klm
+    may - axis - pranam v0 ₹1,779
+    may - indusind - Instamart ₹372 unauthorized
+    jun - cred - Cricket Codewave ₹407 check nandeesh
+    jun - google pay - pranam lending ₹16,000 track
+    jun - axis - pranam v0 ₹1,779
+    jun - axis - codewave ₹2,751 verify completion
+    jun - hdfc - late fee request statement
+    jul - one card - late payment fee ~₹2,000
+    aug - google pay - mubin javagar swap ₹5,000
+    sep - cred - Simeon Agash ₹500 marriage cake
+    sep - yes bank - Swiggy ₹236 check if Instamart
+    nov - google pay - pranam lending ₹12,000 verify
+    nov - google pay - pranam ₹1,00,000 check separately
+  LENDING TRACKER
+    amit - ₹20,000 lent - verify if fully repaid
+    pranam - ₹10,000 (april) - track
+    pranam - ₹12,000 (november 3) - verify and add
+    pranam - ₹16,000 (june 19) - track repayment
+    pranam - ₹1,00,000 (november 29) - check separately
+    rumize - amount TBD - check with mubin
+    raj - ₹20,000 (may 22) - track repayment
+    mubin javagar swap - ₹5,000 (aug 29) - work in handlers lending
+  RECURRING SUBSCRIPTIONS
+    pranam v0/vercel
+      march - ₹1,794 (incl GST)
+      april - ₹1,779 (incl GST)
+      may - ₹1,779 (incl GST)
+      june+ - check if ongoing
+  PEOPLE AVAILABILITY
+    jan 14-24 - mubin absent
+    mar 29 to apr 7 - mubin absent
+    apr 19 to may 8 - mubin absent
+    may 20 - indhu left
+    jun 4-11 - mubin absent
+    jul 3 - indhu left again
+    jul 15+ - arun cycle started
+    aug 3-27 - mubin not in Bangalore
+    nov 7-13 - mubin not here
+    may onwards - rachitha added to team

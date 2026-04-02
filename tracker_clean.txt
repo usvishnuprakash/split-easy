@@ -10,20 +10,21 @@ QUICK ADD
 
 
 FEB 2025 - stage
-  upis - in-progress
+  upis - done
     cred - done
-    google pay - pending
-    amazon pay - stage
-      25/02 PayU payment ₹1,500+ unknown - todo
+    google pay - done
+            - Check for Altaf - 30K, Raj - 25K, and seetha one lakh and Pranam some amount. => mostly is done
+    amazon pay - done
+      25/02 PayU payment ₹1,500+ unknown - done washing machine => done
     paytm - done
   cards - pending
-    icici - pending
-    yes bank - pending
-    axis - pending
-    indusind - pending
-    one card - pending
+    icici - done
+    yes bank - DONE 
+    axis - done
+    indusind - done
+    one card - done
     sbi - N/A
-    hdfc - pending
+    hdfc - done
   notes
     mubin not here jan 14-24 and mar 29 to apr 7
     reconcile PayU payment before closing month
@@ -249,6 +250,7 @@ DEC 2025 - in-progress
       16/12 Bobs Bar Core Mangala - already added
       17/12 What's In A Name ₹17,373 - checked people and added to Splitwise - done
       Watson and Neem Rajya ₹5,000 (incl Mayura) - accommodated above - done
+      Niemann's amount came back, don't worry. 
     amazon pay - done
     paytm - done
   cards - done
@@ -274,21 +276,32 @@ DEC 2025 - in-progress
       06/12 missile patrol ₹1,000 - added to GPay
       07/12 Ankush Fuels and Servi, Barkur fuel ₹4,477.62 - done
 
-JAN 2026 - pending
-  upis - pending
-    cred - pending
-    google pay - pending
-    amazon pay - pending
-    paytm - pending
-  cards - pending
-    icici - pending
-    yes bank - pending
-    axis - pending
-    indusind - pending
-    one card - pending
-    sbi - N/A
-    hdfc - pending
+JAN 2026 - DONE
+  upis - done
+    cred - done
+    google pay - DONE
+        -- need to put in gpay or confirm
+         1. January 12, 12 o'clock morning, 3662 rupees with Dhammu.  done
+         2. Ni kamal daamu 1140 rupees. Food, I think so. 13 jan
+         3, expenses 190 13 JAN + 75 +190 
+         4. Meem Mubin Naborwa in Embair restaurant, 15 Jan. 1018 
+         5. vasim marriage petrl 4734 rupees. 24 Jan. + 1000 + 785 (food)
+         6. Kamal gave me 1000 rupees. I have to give back. Need to check first if he put or not. 
+         7. Biryani with me Mubin Appu Jan 26, Rs. 1357 --- done until here
+
+    amazon pay - done
+    paytm - done
+  cards - inprogress
+    icici - done
+    yes bank - DONE
+    axis - DONE
+    indusind - done
+    one card - done
+    sbi - done
+    hdfc - DONE
   notes
+
+   -- For contentmonetiz, 904 rupees in January 16 I paid for hosting her. 
 
 FEB 2026 - pending
   upis - pending

@@ -5,6 +5,34 @@ SPLITWISE TRACKER
     CRED date range bug: excludes final day, manually verify 31st
     IndusInd app mismatch: use downloaded statements instead
 
+HOW TO USE
+  paste new entries in QUICK ADD -> move them to the right month
+  update statuses inline -> check OUTSTANDING ITEMS at bottom for open todos
+
+RECONCILIATION WORKFLOW
+  monthly process (12 steps)
+    1. download all bank/card statements for the month
+    2. download upi statements (cred, gpay, amazon pay, paytm)
+    3. identify shared expenses vs personal
+    4. cross-check people availability dates (who was here)
+    5. calculate splits (equal / itemized as needed)
+    6. update splitwise app with each shared expense
+    7. mark each line item done in this tracker
+    8. flag unclear items as 'todo' with what needs checking
+    9. get confirmations on whatsapp for disputed/large amounts
+    10. update LENDING TRACKER for any money lent or borrowed
+    11. update RECURRING SUBSCRIPTIONS section
+    12. mark the month as done and archive any receipts
+  transaction format
+    Date | Description | Amount | Action | Person
+  tips
+    note out-of-station dates immediately when they happen
+    flag unauthorized/unknown transactions same day, don't wait
+    track lending separately from regular splits
+    weekly review prevents end-of-month backlog
+    cross-verify large amounts (> ~₹5,000) on whatsapp
+    keep receipts/screenshots for disputed items
+
 QUICK ADD
   (paste new entries here, move to correct month later)
 
@@ -39,7 +67,7 @@ MAR 2025 - stage
     paytm - done
   cards - stage
     icici (feb-mar) - done
-      23/02 ZUDIO Bangalore ₹2,596
+      23/02 ZUDIO A UNIT OF TRENT BANGALORE IN 25 ₹2,596 (txn 10799148877)
     yes bank - done
       only UPIs
     axis - done
@@ -66,7 +94,7 @@ APR 2025 - stage
     icici (mar-apr) - stage
       30/03 Grannies - check mubin/indhu - todo
     yes bank (mar-apr) - stage
-      27/03 ATO National Service ₹1,283 - identify what it is - todo
+      27/03 ATO National Service ₹1,283 (S 356 service station, with/without ancillary) - identify what it is - todo
     axis (mar-apr) - stage
       pranam vercel ₹1,794 (incl GST) - todo
     indusind (mar-apr) - stage
@@ -245,9 +273,9 @@ NOV 2025 - in-progress
 DEC 2025 - in-progress
   upis - done
     cred - done
-      05/12 sent to Mubin - verified, he sent back via bank (Yes Bank)
+      05/12 10:09am sent to Mubin - verified, he sent back via bank (Yes Bank)
     google pay - done
-      16/12 Bobs Bar Core Mangala - already added
+      16/12 Bobs Bar Core Mangala ₹10,249 - already added
       17/12 What's In A Name ₹17,373 - checked people and added to Splitwise - done
       Watson and Neem Rajya ₹5,000 (incl Mayura) - accommodated above - done
       Niemann's amount came back, don't worry. 
@@ -301,7 +329,7 @@ JAN 2026 - DONE
     hdfc - DONE
   notes
 
-   -- For contentmonetiz, 904 rupees in January 16 I paid for hosting her. 
+   -- For contentmonetiz, 904 rupees in January 16 I paid for hostinger. 
 
 FEB 2026 - pending
   upis - pending
@@ -320,6 +348,38 @@ FEB 2026 - pending
   notes
 
 MAR 2026 - pending
+  upis - pending
+    cred - pending
+    google pay - pending
+    amazon pay - pending
+    paytm - pending
+  cards - pending
+    icici - pending
+    yes bank - pending
+    axis - pending
+    indusind - pending
+    one card - pending
+    sbi - N/A
+    hdfc - pending
+  notes
+
+APR 2026 - pending
+  upis - pending
+    cred - pending
+    google pay - pending
+    amazon pay - pending
+    paytm - pending
+  cards - pending
+    icici - pending
+    yes bank - pending
+    axis - pending
+    indusind - pending
+    one card - pending
+    sbi - N/A
+    hdfc - pending
+  notes
+
+MAY 2026 - pending
   upis - pending
     cred - pending
     google pay - pending
@@ -381,8 +441,28 @@ OUTSTANDING ITEMS
     apr 19 to may 8 - mubin absent
     may 20 - indhu left
     jun 4-11 - mubin absent
+    [unknown date jun] - indhu returned (per older notes, before jul 3)
     jul 3 - indhu left again
     jul 15+ - arun cycle started
     aug 3-27 - mubin not in Bangalore
     nov 7-13 - mubin not here
     may onwards - rachitha added to team
+
+MONTH STATUS SUMMARY
+  month     | upis        | cards       | overall
+  feb 2025  | done        | done        | stage (PayU verify)
+  mar 2025  | done        | done        | stage (Zomato Kannur todo)
+  apr 2025  | stage       | stage       | stage (multiple todos)
+  may 2025  | stage       | stage       | stage (multiple todos)
+  jun 2025  | stage       | stage       | stage (hdfc late fee, pranam)
+  jul 2025  | done        | in-progress | in-progress (one card late fee)
+  aug 2025  | in-progress | done        | in-progress (javagar swap)
+  sep 2025  | stage       | stage       | stage (Simeon, Swiggy)
+  oct 2025  | done        | in-progress | in-progress (Goa done)
+  nov 2025  | stage       | done        | in-progress (pranam lending)
+  dec 2025  | done        | done        | in-progress (ANKUSH trip done)
+  jan 2026  | done        | in-progress | DONE
+  feb 2026  | pending     | pending     | pending
+  mar 2026  | pending     | pending     | pending
+  apr 2026  | pending     | pending     | pending
+  may 2026  | pending     | pending     | pending

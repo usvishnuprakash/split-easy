@@ -308,15 +308,13 @@ JAN 2026 - DONE
   upis - done
     cred - done
     google pay - DONE
-        -- need to put in gpay or confirm
-         1. January 12, 12 o'clock morning, 3662 rupees with Dhammu.  done
-         2. Ni kamal daamu 1140 rupees. Food, I think so. 13 jan
-         3, expenses 190 13 JAN + 75 +190 
-         4. Meem Mubin Naborwa in Embair restaurant, 15 Jan. 1018 
-         5. vasim marriage petrl 4734 rupees. 24 Jan. + 1000 + 785 (food)
-         6. Kamal gave me 1000 rupees. I have to give back. Need to check first if he put or not. 
-         7. Biryani with me Mubin Appu Jan 26, Rs. 1357 --- done until here
-
+      12/01 morning - sent to Dhammu ₹3,662 - done
+      13/01 food (me, Kamal, Daamu?) ₹1,140 - confirm split - todo
+      13/01 misc expenses ₹190 + ₹75 + ₹190 - identify what - todo
+      15/01 Embair restaurant (me, Mubin, Naborwa) ₹1,018
+      24/01 Vasim marriage trip - petrol ₹4,734 + extra ₹1,000 + food ₹785
+      [jan, date?] Kamal lent me ₹1,000 - verify if he added to splitwise, then repay - todo
+      26/01 biryani (me, Mubin, Appu) ₹1,357 - done
     amazon pay - done
     paytm - done
   cards - inprogress
@@ -328,8 +326,7 @@ JAN 2026 - DONE
     sbi - done
     hdfc - DONE
   notes
-
-   -- For contentmonetiz, 904 rupees in January 16 I paid for hostinger. 
+    16/01 hostinger ₹904 paid - business expense for contentmonetiz, not a split
 
 FEB 2026 - pending
   upis - pending
@@ -382,7 +379,24 @@ APR 2026 - pending
 MAY 2026 - pending
   upis - pending
     cred - pending
-    google pay - pending
+    google pay - done
+      need to add to gpay split -> done:
+        food JP Nagar (me, Kamal, Mayura) ₹510 - done
+        badminton team juice (me, Shaid, Kamal, Soorajith, Mayura) ₹290 - done
+        food JP Nagar (me, Kamal, Mayura, Shaid) ₹610 - done
+        food JP Nagar (me, Kamal, Mayura, Vibin) ₹502 - done
+        badminton team misc (me, Shaid, Soorajith, Kamal) ₹320 - done
+        badminton (me, Soorajith, Shaid) ₹100 - done
+        Boomika marriage (me, Mayura, Rachitha, Mubin, Fathima, Arun) ₹940 - done
+        drinks (me, Mubin, Wasib) ₹1,300 - done
+        (me, Mubin, Wasib, Waib) ₹504 - half for Waib, ₹250 for Wasib - verify split - done
+        (me, Mubin, Soorajith, Shaid, Vasim) ₹100 - done
+        Fathima home (me, Mayura, Rachitha, Mubin, Shaid, Vasim, Rasel) ₹1000 - done
+        food (me, Mayura, Kamal, Mubin) ₹1,187 - done
+        badminton (me, Kamal, Abisek) ₹400 - done
+        juice (me, Kamal) ₹170 - done
+        juice (me, Shaid) ₹90 - done
+        (me, Kamal, Adarsh) ₹370 - half split - verify - done
     amazon pay - pending
     paytm - pending
   cards - pending

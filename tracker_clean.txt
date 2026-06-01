@@ -328,37 +328,47 @@ JAN 2026 - DONE
   notes
     16/01 hostinger ₹904 paid - business expense for contentmonetiz, not a split
 
-FEB 2026 - pending
-  upis - pending
-    cred - pending
-    google pay - pending
-    amazon pay - pending
-    paytm - pending
-  cards - pending
-    icici - pending
-    yes bank - pending
-    axis - pending
-    indusind - pending
-    one card - pending
-    sbi - N/A
-    hdfc - pending
+FEB 2026 - DONE
+  upis - done
+    cred - done
+    google pay - done
+      08/02 KR Market trip (me, Kamal, Mayura, Damu) ₹1,100 - done
+      08/02 KR Market trip food (me, Kamal, Mayura, Damu) ₹1,686 - done
+      19/02 Raj wedding trip (me, Mubin, Arun, Ajayb, Nikil Shetty) ₹2,500 - done
+      20/02 food (me, Kamal) ₹240 - done
+    amazon pay - done
+    paytm - done
+  cards - done
+    icici - done
+    yes bank - done
+    axis - done
+    indusind - done
+    one card - done
+    sbi - done
+    hdfc - done
   notes
 
-MAR 2026 - pending
-  upis - pending
-    cred - pending
-    google pay - pending
-    amazon pay - pending
-    paytm - pending
-  cards - pending
-    icici - pending
-    yes bank - pending
-    axis - pending
-    indusind - pending
-    one card - pending
-    sbi - N/A
-    hdfc - pending
+MAR 2026 - DONE
+  upis - done
+    cred - done
+    google pay - done
+      10/03 food zomato (me, Mubin, Apoorva) ₹909 - done
+      06/03 Mayura birthday ₹6,782 - ask Kamal how to put in split - done
+      06/03 food swiggy (me, Mubin, Appu) ₹554 - done
+    amazon pay - done
+    paytm - done
+  cards - done
+    icici - done
+    yes bank - done
+      21/02 Bobs Bar (me, Kamal, Abishek, Mayura, Mubin, Apoorva) ₹4,955 - done
+    axis - done
+    indusind - done (only upi payments)
+    one card - done
+      food zomato (me, Mubin, Appu) ₹534 - done
+    sbi - done
+    hdfc - done
   notes
+    1. 10 March. 2026. Some credit have taken 36,000 S. Education payments. For what? I don't know. need to confirm? from cred TOTAL 37080
 
 APR 2026 - pending
   upis - pending
@@ -476,7 +486,7 @@ MONTH STATUS SUMMARY
   nov 2025  | stage       | done        | in-progress (pranam lending)
   dec 2025  | done        | done        | in-progress (ANKUSH trip done)
   jan 2026  | done        | in-progress | DONE
-  feb 2026  | pending     | pending     | pending
-  mar 2026  | pending     | pending     | pending
+  feb 2026  | done        | done        | DONE
+  mar 2026  | done        | done        | DONE
   apr 2026  | pending     | pending     | pending
   may 2026  | pending     | pending     | pending

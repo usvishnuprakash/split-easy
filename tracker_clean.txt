@@ -368,38 +368,37 @@ MAR 2026 - DONE
     sbi - done
     hdfc - done
   notes
-    1. 10 March. 2026. Some credit have taken 36,000 S. Education payments. For what? I don't know. need to confirm? from cred TOTAL 37080
+    1. 10 March. 2026. Some credit have taken 36,000 S. Education payments. For what? I don't know. need to confirm? from cred TOTAL 37080 - DONE -FOR MY CARD PAYMENT
     
 
 
 
-APR 2026 - inprogress
-  upis - in-progress
+APR 2026 - in-progress
+  upis - done
     cred - done
-    google pay - inprogress
-      need to put in spitl wise
-       1. 4 april 215 for rachitha miscellaneous - me mub soorajith apporva
-       2. 5 april 160 me appu uber
-       3. 145 me appu food after rachitha marige  5 april
-       4. 21 april 480 sneka marrige me mub mayura rachitha appu shakid, me 2 ok
-       6. 30 april me kaml food 460
-       
-    amazon pay - pending
-    paytm - pending
-  cards - pending
-    icici - pending
-    yes bank - pending
-    axis - pending
-    indusind - pending
-    one card - pending
-    sbi - N/A
-    hdfc - pending
+    google pay - done
+      04/04 Rachitha miscellaneous (me, Mubin, Soorajith, Apoorva) ₹215 - done
+      05/04 uber (me, Appu) ₹160 - done
+      05/04 food after Rachitha marriage (me, Appu) ₹145 - done
+      21/04 Sneka marriage (me x2, Mubin, Mayura, Rachitha, Appu, Shaid) ₹480 - done
+      30/04 food (me, Kamal) ₹460 - done
+    amazon pay - done
+    paytm - done
+  cards - done
+    icici - done
+    yes bank - done
+    axis - done
+      15/03 paid Pranam in Mobikwik ₹1,000 - he paid off on 16th - done
+    indusind - done
+    one card - done
+    sbi - done
+    hdfc - done
   notes
-    1. 24 april from crud edicatoin payment taken 30 k need to confirm what is this for and add to splitwise if needed
-    2. - 2 april rachitha marige going petrol ,to whom i have add please confim
-    3. 3 april kalaimani I don't know, but in Rajitha's marriage, I think it will come in miscellaneous +60
-    4. 9 April I given to Unni Anna, so check properly before putting the education bill is that related
-    5. i send pranam 23000 k for lending, need to track repayment 24 april
+    24/04 received ₹30,000 from CRUD education payment - confirm what it's for, add to splitwise if needed - DONE (I SENT TO PRANAV 23K THAT'S WHAT I TAKE)
+    02/04 petrol going to Rachitha marriage - confirm who to add - DONE PUT ME MUBIN ME MORE OK 
+    03/04 Kalaimani ₹60 (Rachitha marriage miscELLSINOUS?) - confirm - DONE LEAVE AS MISC
+    09/04 paid Unni Anna - check if related to education bill before adding - DONE (not related, added to splitwise)
+    24/04 sent Pranam ₹23,000 - lending, track repayment - DONE
 
 
 
@@ -424,16 +423,16 @@ MAY 2026 - pending
         juice (me, Kamal) ₹170 - done
         juice (me, Shaid) ₹90 - done
         (me, Kamal, Adarsh) ₹370 - half split - verify - done
-    amazon pay - pending
-    paytm - pending
+    amazon pay - DONE
+    paytm - DONE
   cards - pending
-    icici - pending
-    yes bank - pending
-    axis - pending
-    indusind - pending
-    one card - pending
-    sbi - N/A
-    hdfc - pending
+    icici - done
+    yes bank - DONE
+    axis - done
+    indusind - done
+    one card - done
+    sbi - done
+    hdfc - DONE
   notes
 
 
@@ -467,6 +466,7 @@ OUTSTANDING ITEMS
     pranam - ₹12,000 (november 3) - verify and add
     pranam - ₹16,000 (june 19) - track repayment
     pranam - ₹1,00,000 (november 29) - check separately
+    pranam - ₹23,000 (april 24, 2026) - track repayment
     rumize - amount TBD - check with mubin
     raj - ₹20,000 (may 22) - track repayment
     mubin javagar swap - ₹5,000 (aug 29) - work in handlers lending
@@ -505,5 +505,5 @@ MONTH STATUS SUMMARY
   jan 2026  | done        | in-progress | DONE
   feb 2026  | done        | done        | DONE
   mar 2026  | done        | done        | DONE
-  apr 2026  | pending     | pending     | pending
+  apr 2026  | done        | done        | in-progress (5 note todos)
   may 2026  | pending     | pending     | pending

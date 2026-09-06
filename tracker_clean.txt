@@ -37,7 +37,7 @@ QUICK ADD
   (paste new entries here, move to correct month later)
 
 
-FEB 2025 - stage
+FEB 2025 - done
   upis - done
     cred - done
     google pay - done
@@ -45,7 +45,7 @@ FEB 2025 - stage
     amazon pay - done
       25/02 PayU payment ₹1,500+ unknown - done washing machine => done
     paytm - done
-  cards - pending
+  cards - done
     icici - done
     yes bank - DONE 
     axis - done
@@ -55,7 +55,7 @@ FEB 2025 - stage
     hdfc - done
   notes
     mubin not here jan 14-24 and mar 29 to apr 7
-    reconcile PayU payment before closing month
+    PayU payment resolved (washing machine) - month closed
 
 MAR 2025 - stage
   upis - done
@@ -220,7 +220,7 @@ SEP 2025 - stage
     hdfc - done
   notes
 
-OCT 2025 - in-progress
+OCT 2025 - done
   upis - done
     cred - done
       01/10 Goa pollution ₹250
@@ -235,7 +235,7 @@ OCT 2025 - in-progress
       12/10 Vasim ₹170
     amazon pay - done
     paytm - done
-  cards - in-progress
+  cards - done
     icici - done
     yes bank - done
     axis - done
@@ -247,7 +247,7 @@ OCT 2025 - in-progress
     hdfc - done
   notes
 
-NOV 2025 - in-progress
+NOV 2025 - stage
   upis - stage
     cred - done
     google pay - stage
@@ -270,7 +270,7 @@ NOV 2025 - in-progress
   notes
     mubin not here nov 7 to nov 13
 
-DEC 2025 - in-progress
+DEC 2025 - done
   upis - done
     cred - done
       05/12 10:09am sent to Mubin - verified, he sent back via bank (Yes Bank)
@@ -304,10 +304,10 @@ DEC 2025 - in-progress
       06/12 missile patrol ₹1,000 - added to GPay
       07/12 Ankush Fuels and Servi, Barkur fuel ₹4,477.62 - done
 
-JAN 2026 - DONE
-  upis - done
+JAN 2026 - stage
+  upis - stage
     cred - done
-    google pay - DONE
+    google pay - stage
       12/01 morning - sent to Dhammu ₹3,662 - done
       13/01 food (me, Kamal, Daamu?) ₹1,140 - confirm split - todo
       13/01 misc expenses ₹190 + ₹75 + ₹190 - identify what - todo
@@ -317,7 +317,7 @@ JAN 2026 - DONE
       26/01 biryani (me, Mubin, Appu) ₹1,357 - done
     amazon pay - done
     paytm - done
-  cards - inprogress
+  cards - done
     icici - done
     yes bank - DONE
     axis - DONE
@@ -328,7 +328,7 @@ JAN 2026 - DONE
   notes
     16/01 hostinger ₹904 paid - business expense for contentmonetiz, not a split
 
-FEB 2026 - DONE
+FEB 2026 - done
   upis - done
     cred - done
     google pay - done
@@ -348,7 +348,7 @@ FEB 2026 - DONE
     hdfc - done
   notes
 
-MAR 2026 - DONE
+MAR 2026 - done
   upis - done
     cred - done
     google pay - done
@@ -373,7 +373,7 @@ MAR 2026 - DONE
 
 
 
-APR 2026 - in-progress
+APR 2026 - done
   upis - done
     cred - done
     google pay - done
@@ -402,9 +402,9 @@ APR 2026 - in-progress
 
 
 
-MAY 2026 - pending
-  upis - pending
-    cred - pending
+MAY 2026 - done
+  upis - done
+    cred - done
     google pay - done
       need to add to gpay split -> done:
         food JP Nagar (me, Kamal, Mayura) ₹510 - done
@@ -425,7 +425,7 @@ MAY 2026 - pending
         (me, Kamal, Adarsh) ₹370 - half split - verify - done
     amazon pay - DONE
     paytm - DONE
-  cards - pending
+  cards - done
     icici - done
     yes bank - DONE
     axis - done
@@ -435,75 +435,93 @@ MAY 2026 - pending
     hdfc - DONE
   notes
 
-
 OUTSTANDING ITEMS
   HIGH PRIORITY TODOS
-    feb - amazon pay - PayU payment ₹1,500+ unknown
-    mar - one card - Zomato Kannur ₹550 check mubin/divya
-    apr - cred - pranam ₹10K check whatsapp
-    apr - icici - Grannies check mubin/indhu
-    apr - yes bank - ATO National Service ₹1,283 identify
-    apr - axis - pranam vercel ₹1,794
-    apr - indusind - ZUDIO ₹1,398 check indhu
-    may - cred - Zepto ₹845 check mubin bangalore
-    may - google pay - Siva Prakash ₹1,000 check klm
-    may - axis - pranam v0 ₹1,779
-    may - indusind - Instamart ₹372 unauthorized
-    jun - cred - Cricket Codewave ₹407 check nandeesh
-    jun - google pay - pranam lending ₹16,000 track
-    jun - axis - pranam v0 ₹1,779
-    jun - axis - codewave ₹2,751 verify completion
-    jun - hdfc - late fee request statement
-    jul - one card - late payment fee ~₹2,000
-    aug - google pay - mubin javagar swap ₹5,000
-    sep - cred - Simeon Agash ₹500 marriage cake
-    sep - yes bank - Swiggy ₹236 check if Instamart
-    nov - google pay - pranam lending ₹12,000 verify
-    nov - google pay - pranam ₹1,00,000 check separately
+    mar 2025 - one card - Zomato Kannur ₹550 check mubin/divya
+    apr 2025 - cred - pranam ₹10K check whatsapp
+    apr 2025 - icici - Grannies check mubin/indhu
+    apr 2025 - yes bank - ATO National Service ₹1,283 identify
+    apr 2025 - axis - pranam vercel ₹1,794
+    apr 2025 - indusind - ZUDIO ₹1,398 check indhu
+    may 2025 - cred - Zepto ₹845 check mubin bangalore
+    may 2025 - google pay - Siva Prakash ₹1,000 check klm
+    may 2025 - axis - pranam v0 ₹1,779
+    may 2025 - indusind - Instamart ₹372 unauthorized
+    jun 2025 - cred - Cricket Codewave ₹407 check nandeesh
+    jun 2025 - google pay - pranam lending ₹16,000 track
+    jun 2025 - axis - pranam v0 ₹1,779
+    jun 2025 - axis - codewave ₹2,751 verify completion
+    jun 2025 - hdfc - late fee request statement
+    jul 2025 - one card - late payment fee ~₹2,000
+    aug 2025 - google pay - mubin javagar swap ₹5,000
+    sep 2025 - cred - Simeon Agash ₹500 marriage cake
+    sep 2025 - yes bank - Swiggy ₹236 check if Instamart
+    nov 2025 - google pay - pranam lending ₹12,000 verify
+    nov 2025 - google pay - pranam ₹1,00,000 check separately
+    jan 2026 - google pay - 13/01 food (me, Kamal, Daamu?) ₹1,140 confirm split
+    jan 2026 - google pay - 13/01 misc ₹190 + ₹75 + ₹190 identify what
+    jan 2026 - google pay - Kamal lent me ₹1,000 confirm in splitwise then repay
+  RESOLVED (audit trail)
+    feb 2025 - amazon pay - PayU ₹1,500+ = washing machine
+    jun 2025 - cred - Ganapathy Sign ₹1,750 = gas
+    dec 2025 - yes bank - IAUP ₹400+ charged twice, reverted
+    mar 2026 - cred - S. Education ₹36,000 (total ₹37,080) = own card payment
+    apr 2026 - CRUD education ₹30,000 received, ₹23,000 sent to Pranam
   LENDING TRACKER
-    amit - ₹20,000 lent - verify if fully repaid
-    pranam - ₹10,000 (april) - track
-    pranam - ₹12,000 (november 3) - verify and add
-    pranam - ₹16,000 (june 19) - track repayment
-    pranam - ₹1,00,000 (november 29) - check separately
-    pranam - ₹23,000 (april 24, 2026) - track repayment
-    rumize - amount TBD - check with mubin
-    raj - ₹20,000 (may 22) - track repayment
-    mubin javagar swap - ₹5,000 (aug 29) - work in handlers lending
+    open
+      amit - ₹20,000 lent - verify if fully repaid
+      pranam - ₹10,000 (apr 2025) - track
+      pranam - ₹16,000 (jun 19 2025) - track repayment
+      pranam - ₹12,000 (nov 3 2025) - verify and add
+      pranam - ₹1,00,000 (nov 29 2025) - check separately
+      pranam - ₹23,000 (apr 24 2026) - track repayment
+      raj - ₹20,000 (may 22 2025) - track repayment
+      rumize - amount TBD - check with mubin
+      mubin javagar swap - ₹5,000 (aug 29 2025) - work in handlers lending
+      kamal - ₹1,000 lent TO me (jan 2026) - confirm then repay
+    closed
+      pranam - ₹1,000 mobikwik (mar 15 2026) - repaid mar 16
   RECURRING SUBSCRIPTIONS
     pranam v0/vercel
-      march - ₹1,794 (incl GST)
-      april - ₹1,779 (incl GST)
-      may - ₹1,779 (incl GST)
-      june+ - check if ongoing
+      mar 2025 - ₹1,794 (incl GST)
+      apr 2025 - ₹1,779 (incl GST)
+      may 2025 - ₹1,779 (incl GST)
+      jun 2025 - ₹1,779 (incl GST)
+      jul 2025 onwards - nothing logged - confirm cancelled or untracked - todo
   PEOPLE AVAILABILITY
-    jan 14-24 - mubin absent
-    mar 29 to apr 7 - mubin absent
-    apr 19 to may 8 - mubin absent
-    may 20 - indhu left
-    jun 4-11 - mubin absent
-    [unknown date jun] - indhu returned (per older notes, before jul 3)
-    jul 3 - indhu left again
-    jul 15+ - arun cycle started
-    aug 3-27 - mubin not in Bangalore
-    nov 7-13 - mubin not here
-    may onwards - rachitha added to team
+    2025
+      jan 14-24 - mubin absent
+      mar 29 to apr 7 - mubin absent
+      apr 19 to may 8 - mubin absent
+      may 20 - indhu left
+      may onwards - rachitha added to team
+      jun 4-11 - mubin absent
+      [unknown date jun] - indhu returned (before jul 3)
+      jul 3 - indhu left again
+      jul 15+ - arun cycle started
+      aug 3-27 - mubin not in Bangalore
+      nov 7-13 - mubin not here
+    2026
+      nothing recorded jan-may 2026 - backfill absences if any - todo
 
 MONTH STATUS SUMMARY
   month     | upis        | cards       | overall
-  feb 2025  | done        | done        | stage (PayU verify)
-  mar 2025  | done        | done        | stage (Zomato Kannur todo)
-  apr 2025  | stage       | stage       | stage (multiple todos)
-  may 2025  | stage       | stage       | stage (multiple todos)
-  jun 2025  | stage       | stage       | stage (hdfc late fee, pranam)
+  feb 2025  | done        | done        | done
+  mar 2025  | done        | stage       | stage (Zomato Kannur)
+  apr 2025  | stage       | stage       | stage (5 todos)
+  may 2025  | stage       | stage       | stage (4 todos)
+  jun 2025  | stage       | stage       | stage (5 todos)
   jul 2025  | done        | in-progress | in-progress (one card late fee)
   aug 2025  | in-progress | done        | in-progress (javagar swap)
   sep 2025  | stage       | stage       | stage (Simeon, Swiggy)
-  oct 2025  | done        | in-progress | in-progress (Goa done)
-  nov 2025  | stage       | done        | in-progress (pranam lending)
-  dec 2025  | done        | done        | in-progress (ANKUSH trip done)
-  jan 2026  | done        | in-progress | DONE
-  feb 2026  | done        | done        | DONE
-  mar 2026  | done        | done        | DONE
-  apr 2026  | done        | done        | in-progress (5 note todos)
-  may 2026  | pending     | pending     | pending
+  oct 2025  | done        | done        | done
+  nov 2025  | stage       | done        | stage (pranam lending x2)
+  dec 2025  | done        | done        | done
+  jan 2026  | stage       | done        | stage (3 gpay todos)
+  feb 2026  | done        | done        | done
+  mar 2026  | done        | done        | done
+  apr 2026  | done        | done        | done
+  may 2026  | done        | done        | done
+  totals: 8 done | 6 stage | 2 in-progress | 0 pending
+  oldest open month: mar 2025
+  open todos: 24 | open lendings: 10

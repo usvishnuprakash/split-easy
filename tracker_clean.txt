@@ -439,7 +439,8 @@ JUN 2026 - inprogress
   upis - inprogress
     cred - inprogress
        - no transactions
-    google pay - pending
+    google pay - inprogress
+       - last was the archna amount i was checking
     amazon pay - pending
     paytm - pending
   cards - pending

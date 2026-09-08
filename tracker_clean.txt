@@ -435,23 +435,40 @@ MAY 2026 - done
     hdfc - DONE
   notes
 
-JUN 2026 - inprogress
-  upis - inprogress
-    cred - inprogress
-       - no transactions
-    google pay - inprogress
-       - last was the archna amount i was checking
-    amazon pay - pending
-    paytm - pending
-  cards - pending
-    icici - pending
-    yes bank - pending
-    axis - pending
-    indusind - pending
-    one card - pending
-    sbi - pending
-    hdfc - pending
+JUN 2026 - done
+  upis - done
+    cred - done
+      no transactions
+    google pay - done
+      13/06 room party (me, Mubin, Kamal, Mayura, Mayura's brother) ₹1,800 - done
+      16/06 tea (me, Kamal, Mayura, Anagha) ₹230 - done
+      18/06 food (me, Kamal) ₹399 - done
+      20/06 chicken (me, Mubin, Mayura) ₹330 - done
+      20/06 misc (me, Mubin, Mayura) ₹105 - done
+      20/06 egg (me, Mubin, Mayura) ₹80 - done
+      27/06 tea (me, Kamal) ₹70 - done
+      29/06 food (payer me, split Mayura) ₹180 - done
+      30/06 misc (me, Mayura) ₹80 - done
+      badminton - done
+        27/06 venue (me, Kamal, Abisek, team, friends) ₹519 (369 + 150) - done
+        28/06 badminton (me, Mubin, Soorajith, Altaf, Sahal) ₹424 - done
+    amazon pay - done
+      17/06 mask (payer Kamal; Kamal, me) ₹334 - done
+    paytm - done
+      01/06 group expense (me, Kamal, Mubin, Altaf, Sahal, Adarsh) ₹435 - done
+      05/06 expense (me, Soorajith, Altaf, Sahal, Mubin, Vasim) ₹425 - done
+      14/06 expense (me, Sahal, Altaf, Mubin, Vasim, Arun, Soorajith) ₹380 - done
+  cards - done
+    icici - done
+    yes bank - done
+    axis - done
+      30/05 Megana food (me, Rasil) ₹1,030 - needs adding to gpay split - todo
+    indusind - done
+    one card - done
+    sbi - done
+    hdfc - done
   notes
+    month total logged ₹5,791 (gpay ₹3,274 + badminton ₹943 + amazon pay ₹334 + paytm ₹1,240)
 
 
 OUTSTANDING ITEMS
@@ -479,7 +496,8 @@ OUTSTANDING ITEMS
     nov 2025 - google pay - pranam ₹1,00,000 check separately
     jan 2026 - google pay - 13/01 food (me, Kamal, Daamu?) ₹1,140 confirm split
     jan 2026 - google pay - 13/01 misc ₹190 + ₹75 + ₹190 identify what
-    jan 2026 - google pay - Kamal lent me ₹1,000 confirm in splitwise then repay -- done repaided 
+    jan 2026 - google pay - Kamal lent me ₹1,000 confirm in splitwise then repay
+    jun 2026 - axis - 30/05 Megana food ₹1,030 (me, Rasil) add to gpay split -- done repaided 
   RESOLVED (audit trail)
     feb 2025 - amazon pay - PayU ₹1,500+ = washing machine
     jun 2025 - cred - Ganapathy Sign ₹1,750 = gas
@@ -541,7 +559,7 @@ MONTH STATUS SUMMARY
   mar 2026  | done        | done        | done
   apr 2026  | done        | done        | done
   may 2026  | done        | done        | done
-  jun 2026  | pending     | pending     | pending (skeleton, start here)
-  totals: 8 done | 6 stage | 2 in-progress | 1 pending
+  jun 2026  | done        | done        | done (1 gpay entry to add)
+  totals: 9 done | 6 stage | 2 in-progress | 0 pending
   oldest open month: mar 2025
-  open todos: 24 | open lendings: 10
+  open todos: 25 | open lendings: 10
